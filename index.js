@@ -1,5 +1,6 @@
 function fun(){
-    let a = "tushar";
+    let a = "ravi";
+   
    
     console.log(a);
 
