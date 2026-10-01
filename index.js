@@ -1,5 +1,5 @@
 function fun(){
-    let a = 8;
+    let a = 9;
     console.log(a);
-    
+
 }
