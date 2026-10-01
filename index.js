@@ -1,5 +1,6 @@
 function fun(){
-    let a = 9;
+    let a = 10;
+   
     console.log(a);
 
 }
