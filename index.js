@@ -1,5 +1,5 @@
 function fun(){
-    let a = 10;
+    let a = "tushar";
    
     console.log(a);
 
